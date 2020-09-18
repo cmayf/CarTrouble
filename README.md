@@ -6,6 +6,8 @@ Query format example: IW=true,B=false,R=false
 
 Note: 'python3 car_trouble_probabilities.py' was used to generate the JSON file used in this program
 
-
+References: 
+"Artificial Intelligence - A Modern Approach" by Russell And Norvig
+https://github.com/aimacode/aima-python
 
 
